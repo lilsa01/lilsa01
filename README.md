@@ -5,6 +5,8 @@
 
 ### :woman_technologist: About Me :
 
-<div align="center">
-  I am a Liza from Russia, study in SPbPU.
-</div>
+I am a Liza from Russia, study in SPbPU.
+
+- :telescope: I am a student of spbpu, I want to develop in programming and study various programming languages.
+
+- ▶️ 1-course of radio engineering
